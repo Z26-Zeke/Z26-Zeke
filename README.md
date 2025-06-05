@@ -1,11 +1,11 @@
-## Hi there 👋 I'm Ezekiel Rodriguez, an aspiring software developer and IT professional passionate about building innovative solutions and exploring creative ideas. I have experience in:
-- Customer service and technical support
+## Hi there 👋 I'm Ezekiel Rodriguez, an IT professional passionate about building innovative solutions and exploring creative ideas. I have experience in:
 - Remote monitoring and management (RMM)
 - Software development (HTML, CSS, JavaScript, React)
 - Project management and problem-solving
+- Technical Support
 
 Currently, I am:
-- Pursuing an A.S. in Business Administration and Management
+- Soon-to-be BloomTech Graduate
 - Learning React to create immersive web applications
 - Building projects that integrate my IT and coding skills
 

@@ -15,6 +15,10 @@ Currently, I am:
 - Tools: Zendesk, Jira, CRM systems
 - Leadership and management: Strategic planning, team leadership, customer advocacy
 
+## Projects
+- Asylum Seekers Website (https://github.com/Z26-Zeke/asylum-hrf-fe-starter)
+- Bloom sprint challenge: https://github.com/Z26-Zeke/web-sprint-challenge-authentication-and-testing
+- 
 ## Goals
 My goals are to:
 - Secure a junior software developer role or internship

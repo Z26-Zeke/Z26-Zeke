@@ -5,7 +5,7 @@
 - Technical Support
 
 Currently, I am:
-- Soon-to-be BloomTech Graduate
+- BloomTech Alumni
 - Learning React to create immersive web applications
 - Building projects that integrate my IT and coding skills
 
